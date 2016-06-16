@@ -23,3 +23,5 @@ if nargin <= 3
       -log(sigma) ...
       -0.5*((x-mu)./sigma).^2;
 end
+
+
